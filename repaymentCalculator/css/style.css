@@ -1,0 +1,17 @@
+html, body{
+  height: 100%;
+}
+
+body{
+  margin-top: 70px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  font-size: 18px;
+}
